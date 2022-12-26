@@ -1,0 +1,5 @@
+[target.aarch64-none-elf]
+linker = "gcc"
+
+[build]
+target = "aarch64-none-elf"
